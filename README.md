@@ -26,6 +26,7 @@
 
 ## OUTPUT:
 
+![image](https://github.com/PSriVarshan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/114944059/3abcfffe-1825-455a-ba8c-3e9a77c6ccec)
 
 
 
@@ -72,9 +73,9 @@ A motor that has a gear attached to it, often used to drive the printer's linear
 A display screen that allows the user to interact with the printer, typically used to select and control print settings.
 
 
+#### output:
 
-
-## Output:
+![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ### Name: THAMIZH SELVAN.R
 ### Register Number:212222230158
